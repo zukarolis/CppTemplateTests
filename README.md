@@ -10,6 +10,6 @@ A more detailed comparison could be made using tools like NM (unix GNU) or DUMPB
 Refer to comments in h/cpp files for details.
 
 Summary:
-test1_0.obj     should have both definitions of Foo
-test1_1.obj     should have external symbols for Foo (they will be linked to definitions in test1_0.obj)
-test2.obj       should have external symbols for Foo (they will be linked to definitions in bloatware2.obj)
+test1_0.obj     should have both definitions of Foo<br/>
+test1_1.obj     should have external symbols for Foo (they will be linked to definitions in test1_0.obj)<br/>
+test2.obj       should have external symbols for Foo (they will be linked to definitions in bloatware2.obj)<br/>
